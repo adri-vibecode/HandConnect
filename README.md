@@ -30,4 +30,4 @@ Interact:Move your hands in view of the camera to see the skeletal tracking and 
 👨‍💻 Developer:
 Adri Goswami
 📸 Instagram: @i_am.adri11
-🐙 GitHub: Adri Website link: (https://hand-connect-sooty.vercel.app/)
+🐙 GitHub:[Adri](https://github.com/adri-vibecode) Website link: [HandConnect](https://hand-connect-sooty.vercel.app/)
